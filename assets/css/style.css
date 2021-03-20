@@ -31,6 +31,8 @@
     background-attachment:fixed;
     min-height:500px;
     z-index: 0;
+    min-height:300px;
+    padding-bottom: 5%;
 }
 
 .par-1{
@@ -41,27 +43,104 @@
     background-image:url('../images/parralax-2.jpg');
 }
 
+.par-3{
+    background-image:url('../images/parralax-3.jpg');
+    padding-bottom: 0px;
+}
+
 .container{
     z-index: 0;
 }
 
 .slogan{
-    font-size: 3em;
     color: #fff;
     margin-left: 30%;
     margin-top: 20%;
 }
 
-.slogan p{
+.slogan-1{
+    font-size: 3em;
+}
+
+.slogan-1 p{
     margin: 0;
     padding: 0;
     font-weight: bold;
 }
 
 .slogan-2{
+    margin-top: 10%;
     font-size: 2.5em;
-    color: #fff;
-    margin-right: 30%;
-    margin-top: 20%;
-    text-align: right;
 }
+
+.slogan-small{
+    color: #fff;
+    margin-left: 30%;
+}
+
+.slogan-small p{
+    margin: 0;
+}
+
+.slogan-small a{
+    margin-top: 5%;
+}
+
+.service{
+    color: #fff;
+    text-align: center;
+}
+
+.service img{
+    display: block;
+    margin-top: 10%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 200px;
+}
+
+.service-1{
+    background-color: rgba(5, 6, 53, 0.159);
+}
+
+.service-2{
+    background-color: rgba(5, 87, 19, 0.227);
+}
+
+.service-3{
+    background-color: rgba(214, 34, 14, 0.192);
+}
+
+.service-4{
+    background-color: rgba(6, 2, 22, 0.378);
+}
+
+/* Product page */
+/* Matic */
+.matic{
+    background-color: #fbeeac;
+    padding-top: 5%;
+    padding-left: 25px;
+}
+
+.cub{
+    background-color: #f4d160;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.big-bike{
+    background-color: #76d7eb;
+    padding-top: 5%;
+    padding-left: 25px;
+    padding-bottom: 50px;
+}
+
+.cub-2{
+    background-color: #5fd6a3;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 50px;
+}
+
