@@ -119,28 +119,34 @@
 /* Product page */
 /* Matic */
 .matic{
-    background-color: #fbeeac;
+    background-color: #ff8299;
     padding-top: 5%;
     padding-left: 25px;
 }
 
 .cub{
-    background-color: #f4d160;
+    background-color: #fc9d9a;
     padding-top: 5%;
     padding-left: 5%;
 }
 
 .big-bike{
-    background-color: #76d7eb;
+    background-color: #f9cdad;
     padding-top: 5%;
     padding-left: 25px;
     padding-bottom: 50px;
 }
 
 .cub-2{
-    background-color: #5fd6a3;
+    background-color: #c8c8a9;
     padding-top: 5%;
     padding-left: 5%;
     padding-bottom: 50px;
 }
 
+.sport{
+    background-color: #83af9b;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 50px;
+}
